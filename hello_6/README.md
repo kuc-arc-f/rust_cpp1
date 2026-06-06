@@ -16,6 +16,7 @@ Rust , C++ call example
 ***
 ### blog
 
+https://zenn.dev/link/comments/a6628211531a42
 
 ***
 
