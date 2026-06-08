@@ -10,7 +10,7 @@
 
 Rust , C++ call , SQLite TODO
 
-* g++
+* LLVM Clang
 
 ***
 * LIB add
