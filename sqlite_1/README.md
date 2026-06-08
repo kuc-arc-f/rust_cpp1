@@ -53,6 +53,8 @@ export LD_LIBRARY_PATH=.
 ***
 ### blog
 
+https://zenn.dev/knaka0209/scraps/98d2bc7b169bdf
+
 
 ***
 
