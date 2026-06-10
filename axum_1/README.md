@@ -13,6 +13,7 @@ Rust , C++ call , Axum server
 * SQLite database
 * rustc 1.94.0 
 * LLVM Clang
+* Linux
 
 ***
 * LIB add
@@ -62,6 +63,7 @@ curl -X POST http://localhost:3000/api/todo_delete \
 ***
 ### blog
 
+https://zenn.dev/knaka0209/scraps/3c9f5fbf87f96c
 
 ***
 
