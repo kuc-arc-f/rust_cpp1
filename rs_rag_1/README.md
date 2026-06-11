@@ -53,6 +53,11 @@ export LD_LIBRARY_PATH=.
 export GEMINI_API_KEY=
 ```
 ***
+* table add
+```
+sqlite3 ./example.db < table.sql
+```
+***
 * use
 
 * embed
